@@ -1,4 +1,3 @@
-layout_spectrum: 0.22880002111196518
 typography_spectrum: 0.2971200856845826
 color:
   brandStrength: 0.121048747561872
@@ -11,8 +10,10 @@ color:
     - '#FFFFFF'
     - '#6F5473'
     - '#D7D3DA'
+layout_spectrum: 0.22880002111196518
 name: BeyondTheOrdinary
 navigation:
   - name: Transformation
     url: beyondtheordinaryshow.com
     type: external
+title: Bringing Light to Subjects
