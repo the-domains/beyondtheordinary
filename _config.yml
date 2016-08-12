@@ -12,3 +12,7 @@ color:
     - '#6F5473'
     - '#D7D3DA'
 name: BeyondTheOrdinary
+navigation:
+  - name: Transformation
+    url: beyondtheordinaryshow.com
+    type: external
